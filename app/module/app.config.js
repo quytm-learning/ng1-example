@@ -9,4 +9,5 @@
     function configs() {
         // todo config st
     }
+
 })();
